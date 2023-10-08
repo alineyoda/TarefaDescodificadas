@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0px;
+}
+
+div {
+  display: inline-block;
+}
+
+.azul {
+  background-color: lightseagreen;
+  width: 200px;
+  height: 200px;
+  border: 1px solid white;
+}
+
+.vermelho {
+  background-color: #e50c04;
+  width: 200px;
+  height: 200px;
+  border: 1px solid white;
+}
+
+.verde {
+  background-color: #01ff4d;
+  width: 200px;
+  height: 200px;
+  border: 1px solid white;
+}
+
+.cantos {
+  background-color: #e50c04;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+}
+
+.amarelo {
+  background-color: #faf047;
+  width: 200px;
+  height: 200px;
+  border: 1px solid white;
+}
