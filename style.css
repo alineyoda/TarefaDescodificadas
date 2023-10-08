@@ -6,6 +6,10 @@
   font-size: 0px;
 }
 
+#linha {
+  height: 100%
+}
+
 div {
   display: inline-block;
 }
